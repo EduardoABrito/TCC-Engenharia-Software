@@ -6,15 +6,13 @@ Pan, Rangeet; Kim, Myeongsoo; Krishna, Rahul; Pavuluri, Raju; Sinha, Saurabh. "A
 
 O artigo discute o desafio de gerar testes de unidade automatizados que sejam práticos e de alta qualidade para o desenvolvimento de software. Embora as ferramentas tradicionais gerem testes com boa cobertura de código, eles costumam ser de difícil leitura e pouco úteis para os programadores. Em resposta a isso, o estudo explora o potencial dos Modelos de Linguagem Grandes (_LLMs_) para gerar testes mais naturais e parecidos com os escritos por humanos. O artigo apresenta uma solução inovadora, chamada _ASTER_, um _pipeline_ genérico que utiliza análise estática para orientar os _LLMs_ a criar testes que não apenas compilam e alcançam alta cobertura, mas também são compreensíveis. A técnica foi avaliada em um grande conjunto de métodos nas linguagens Java, Python e JavaScript. Os resultados da pesquisa demonstram que o _ASTER_ supera outras abordagens baseadas em _LLMs_ na geração de testes mais compiláveis, com melhor cobertura de código e, mais importante, mais úteis para os desenvolvedores. Isso sugere que a combinação de análise estática e _LLMs_ é uma direção promissora para o futuro da geração automatizada de testes.
 
----
 ## 2. Fichamento Bibliográfico
 
-* Pipeline Genérico: O artigo propõe o _ASTER_ como um _pipeline_ para a geração de testes de unidade que pode ser aplicado a diferentes linguagens e modelos de linguagem, tornando-o uma solução versátil para o problema (página 1).
+* ASTER (_Automatic Static-analysis guided Test Generation_): O artigo propõe o _ASTER_ como um _pipeline_ para a geração de testes de unidade que pode ser aplicado a diferentes linguagens e modelos de linguagem, tornando-o uma solução versátil para o problema (página 1).
 * Testes Naturais: A abordagem _ASTER_ se concentra em gerar testes que se assemelham àqueles escritos por desenvolvedores humanos, que são mais legíveis e fáceis de usar do que os criados por ferramentas tradicionais de automação (página 1).
 * Análise Estática (_Static Analysis_): Um método usado no _pipeline_ do _ASTER_ para examinar o código-fonte sem executá-lo. Essa análise ajuda a identificar a estrutura do código e fornece informações importantes para orientar a geração dos testes (página 1).
 * Cobertura de Código (_Code Coverage_): Uma métrica usada para avaliar a qualidade dos testes gerados, medindo a porcentagem de código de um programa que é executado durante a bateria de testes (página 1).
 
----
 ## 3. Fichamento de Citações
 
 * _"Implementing automated unit tests is an important but time-consuming activity in software development."_
