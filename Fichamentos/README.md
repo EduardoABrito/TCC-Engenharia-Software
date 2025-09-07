@@ -1,9 +1,13 @@
 # Fichamentos
 
-`Este diretório mantém os fichamentos de artigos produzidos pelos alunos durante a execução do trabalho de  conclusão de curso. Nesta página inicial, o aluno deve apresentar a lista de artigos relacionados ao trabalho, incluindo o link dos fichamentos produzidos.`
+1. [Can ChatGPT Repair Non-Order-Dependent Flaky Tests?](https://github.com/EduardoABrito/TCC-Engenharia-Software/blob/main/Fichamentos/Fichamento_01.md)
 
-1. [Template de Fichamento](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-ResearchTemplate/blob/master/Fichamentos/TemplateDeFichamento.md)
-2. [Outro fichamento]()
+2. [A Comparative Evaluation on the Quality of Manual and Automatic Test Case Generation Techniques for Scientific Software - A Case Study of a Python Project for Material Science Workflows](https://github.com/EduardoABrito/TCC-Engenharia-Software/blob/main/Fichamentos/Fichamento_02.md)
 
+3. [Evaluating and Improving ChatGPT for Unit Test Generation](https://github.com/EduardoABrito/TCC-Engenharia-Software/blob/main/Fichamentos/Fichamento_03.md)
 
-...
+4. [ASTER: Natural and Multi-language Unit Test Generation with LLMs](https://github.com/EduardoABrito/TCC-Engenharia-Software/blob/main/Fichamentos/Fichamento_04.md)
+
+5. [An initial investigation of ChatGPT unit test generation capability](https://github.com/EduardoABrito/TCC-Engenharia-Software/blob/main/Fichamentos/Fichamento_05.md)
+
+6. [A Large Scale Study On the Effectiveness of Manual and Automatic Unit Test Generation](https://github.com/EduardoABrito/TCC-Engenharia-Software/blob/main/Fichamentos/Fichamento_06.md)
